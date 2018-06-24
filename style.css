@@ -42,7 +42,8 @@ h3#header {
 }
 
 #header a {
-  tex
+  text-decoration: none;
+  
 }
 
 
