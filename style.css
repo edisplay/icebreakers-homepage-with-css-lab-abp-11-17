@@ -75,7 +75,10 @@ div.jumbotron {
 }
 
 div.questions {
-  padding: 0 20px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 div.questions h4 {
